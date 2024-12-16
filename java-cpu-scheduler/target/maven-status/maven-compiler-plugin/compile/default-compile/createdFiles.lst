@@ -1,0 +1,5 @@
+com\cpuscheduler\gui\ProcessTableModel.class
+module-info.class
+com\cpuscheduler\gui\SchedulerApplication.class
+com\cpuscheduler\model\Process.class
+com\cpuscheduler\model\CPUScheduler.class
